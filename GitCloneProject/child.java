@@ -20,5 +20,6 @@ class child
        int a=2;
        int b=4;
        return a+b;
+	System.out.println("Hello");
      }
 }
